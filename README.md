@@ -16,9 +16,9 @@ After analysing our Deliverable 2 and based on image below, we were able to visu
 
 ![name-of-you-image](https://github.com/anamahmed15/Pyber_Analysis/blob/main/PyBer_fare_summary.png)
 
-> * The Rural fares started at $200. The fares increased and dropped till the end of April.
-> * The Suburban fares started ~$1,000, which is not profitable. The fares dropped in March and in mid-April  
-> * The Urban fares started with an average of $1,800, and then increased consistently to ~$2,300. 
+* The Rural fares started at $200. The fares increased and dropped till the end of April.
+* The Suburban fares started ~$1,000, which is not profitable. The fares dropped in March and in mid-April  
+* The Urban fares started with an average of $1,800, and then increased consistently to ~$2,300. 
 
 ## Summary 
 
